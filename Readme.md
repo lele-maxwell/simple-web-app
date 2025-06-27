@@ -69,7 +69,7 @@ http://<NODE-IP>:<NODE-PORT>
 
 ## ✍️ Author
 
-**Maxwell**
+**Lele Maxwell**
 
 This project is my first step into Kubernetes, and I’ll continue building from here. Stay tuned for more!
 
