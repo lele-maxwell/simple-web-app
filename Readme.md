@@ -69,10 +69,14 @@ http://<NODE-IP>:<NODE-PORT>
 
 ## ✍️ Author
 
-**Lele Maxwell**  
-This project is my **first step into Kubernetes**, and I’ll continue building from here.
+**Maxwell**
 
----
+This project is my first step into Kubernetes, and I’ll continue building from here. Stay tuned for more!
+
+> 💡 **Keep Going!**  
+> Every complex infrastructure starts with a simple `kubectl apply`.  
+> You're on the right path—keep experimenting, keep learning, and don’t be afraid to break things!
+
 
 ## 🧊 License
 
