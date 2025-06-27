@@ -30,7 +30,7 @@ simple-web-app/
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/simple-web-app.git
+git clone https://github.com/lele-maxwell/simple-web-app.git
 cd simple-web-app
 ```
 
