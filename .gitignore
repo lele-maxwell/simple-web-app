@@ -1,0 +1,36 @@
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+target/
+
+# Python (if applicable in `web/`)
+__pycache__/
+*.pyc
+
+# Docker
+*.tar
+docker-compose.override.yml
+
+# Kubernetes generated secrets or configs (if any)
+*.secret
+*.env
+
+# Local Kubernetes config (if copied here)
+.kube/
+
+# Build directories
+dist/
+build/
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+
+*.img
+*.tar
